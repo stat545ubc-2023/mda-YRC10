@@ -9,7 +9,7 @@ Last update: October 6th, 2023
 
 The [README.md](./README.md/) file includes a description of the project.
 
-The folder [Milestone1](./Milestone1/) is related to the first Mini Data-Analysis project. It includes the [mini-project-1.Rmd](./Milestone1/mini-project-1.Rmd) file and its [markdown](./Milestone1/mini-project-1.md) format. The code in our repository can be previewed through Github. Also, the code can be downloaded to RStudio. 
+The folder [Milestone1](./Milestone1/) is related to the first Mini Data-Analysis project. It includes the [mini-project-1.Rmd](./Milestone1/mini-project-1.Rmd) file and its [markdown](./Milestone1/mini-project-1.md) format. The markdown file in the repository can be previewed through Github. Also, the .Rmd file can be downloaded to RStudio. 
 
 ## Reminder
 If you want to update any files, always pull from the master branch first!
